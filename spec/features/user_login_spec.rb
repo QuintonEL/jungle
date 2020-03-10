@@ -18,7 +18,6 @@ RSpec.feature "UserLogins", type: :feature, js: true do
     click_on 'Login'
     sleep(1)
 
-    
     page.has_content?('email')
     
     fill_in 'email', with: 'test@test.com'

@@ -22,6 +22,7 @@ RSpec.feature "ProductDetails", type: :feature, js: true do
     # commented out b/c it's for debugging only
     
     page.has_content?('Description')
+    
     puts page.html
     save_and_open_screenshot
   end
