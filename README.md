@@ -4,7 +4,14 @@ A mini e-commerce application built with Rails 4.2 and Ruby 2.3.5. Testing is do
 
 ## Screenshots
 
-!["Screenshotdesc"](url)
+Broswe Products
+!["Browse Products"](https://github.com/QuintonEL/jungle/blob/master/docs/browse-products.png?raw=true)
+Product Details
+!["Product Details"](https://github.com/QuintonEL/jungle/blob/master/docs/product-details.png?raw=true)
+Register
+!["Register"](https://github.com/QuintonEL/jungle/blob/master/docs/register.png?raw=true)
+Shopping Cart
+!["Shopping Cart"](https://github.com/QuintonEL/jungle/blob/master/docs/shopping-cart.png?raw=true)
 
 
 ## Setup
