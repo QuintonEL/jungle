@@ -1,6 +1,10 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 and Ruby 2.3.5. Testing is done using RSpec, Capybara, and Poltergeist.
+
+## Screenshots
+
+!["Screenshotdesc"](url)
 
 
 ## Setup
